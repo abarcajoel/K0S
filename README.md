@@ -14,5 +14,5 @@ Proyecto con Kubernetes
 
 6. Funcionamiento.
 # Imagen
-![ScreenShot](https://github.com/i-saumitra/Voice-controlled-MP3-Player/blob/master/screenshot.jpg)
+![ScreenShot](K0S/img/k9s.png)
 
