@@ -14,5 +14,5 @@ Proyecto con Kubernetes
 
 6. Funcionamiento.
 # Imagen
-![ScreenShot](K0S/img/k9s.png)
+![img](/K0S/img/k9s.png)
 
