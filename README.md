@@ -3,7 +3,7 @@
 Proyecto con Kubernetes
 # Indice
 
-1. Introducción
+1. Introducción [Introduccion](https://github.com/abarcajoel/K0S/blob/main/Introduccion.md)
 
 2. ¿Qué es k0s?
 
