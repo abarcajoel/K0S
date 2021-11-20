@@ -13,3 +13,6 @@ Proyecto con Kubernetes
 5. Instalación del SO 
 
 6. Funcionamiento.
+# Imagen
+![ScreenShot](https://github.com/i-saumitra/Voice-controlled-MP3-Player/blob/master/screenshot.jpg)
+
