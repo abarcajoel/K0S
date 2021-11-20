@@ -1,3 +1,4 @@
+![img](https://github.com/abarcajoel/K0S/blob/main/img/k9s.png)
 # K0S
 Proyecto con Kubernetes
 # Indice
@@ -13,6 +14,6 @@ Proyecto con Kubernetes
 5. Instalación del SO 
 
 6. Funcionamiento.
-# Imagen
-![img](https://github.com/abarcajoel/K0S/blob/main/img/k9s.png)
+
+
 
