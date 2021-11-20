@@ -14,5 +14,5 @@ Proyecto con Kubernetes
 
 6. Funcionamiento.
 # Imagen
-![img](/K0S/img/k9s.png)
+![img](https://github.com/abarcajoel/K0S/blob/main/img/k9s.png)
 
