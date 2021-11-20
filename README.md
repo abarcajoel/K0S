@@ -1,4 +1,4 @@
-![img](https://github.com/abarcajoel/K0S/blob/main/img/k9s.png)
+![img](https://github.com/abarcajoel/K0S/blob/main/img/k0s.png)
 #                       K0S
 Proyecto con Kubernetes
 # Indice
