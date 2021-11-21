@@ -5,7 +5,7 @@ Proyecto con Kubernetes
 
 1. [Introducción](https://github.com/abarcajoel/K0S/blob/main/Introduccion.md)
 
-2. [¿Qué es K0s]()
+2. [¿Qué es K0s?]()
 
 3. [Cloud Server]()
 
