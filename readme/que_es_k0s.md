@@ -1,3 +1,4 @@
+![img](https://github.com/abarcajoel/K0S/blob/main/img/k0s1.png)
 # ¿Ques es K0s?
 k0s es una distribución de Kubernetes con todo incluido, que está configurada con todas las características necesarias para construir un clúster de Kubernetes y empaquetada como un único binario para facilitar su uso.
 
