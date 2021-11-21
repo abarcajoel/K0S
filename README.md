@@ -7,7 +7,7 @@ Proyecto con Kubernetes
 
 2. [¿Qué es K0s?](https://github.com/abarcajoel/K0S/blob/main/readme/que_es_k0s.md)
 
-3. [Cloud Server]()
+3. [Cloud Server](https://github.com/abarcajoel/K0S/blob/main/readme/cloud_server.md)
 
 4. [Preparación de los servidores]()
 
