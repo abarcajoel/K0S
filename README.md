@@ -5,15 +5,15 @@ Proyecto con Kubernetes
 
 1. [Introducción](https://github.com/abarcajoel/K0S/blob/main/Introduccion.md)
 
-2. ¿Qué es k0s?
+2. [¿Qué es K0s]()
 
-3. Cloud Server
+3. [Cloud Server]()
 
-4. Preparación de los servidores.
+4. [Preparación de los servidores]()
 
-5. Instalación del SO 
+5. [Instalación del S.O]() 
 
-6. Funcionamiento.
+6. [Comprobaciones]()
 
 
 
