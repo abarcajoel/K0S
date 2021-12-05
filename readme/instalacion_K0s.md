@@ -12,3 +12,6 @@
 
  Damos Permisos
  ## chmod 777 k0sctl
+
+ ## Comprobamos ./k0sctl
+ ![img](https://github.com/abarcajoel/K0S/blob/main/img/instalacion01.png)
