@@ -14,4 +14,4 @@
  ## chmod 777 k0sctl
 
  ## Comprobamos ./k0sctl
- ![img]()
+ ![img](https://github.com/abarcajoel/K0S/blob/main/img/instalacion.png)
