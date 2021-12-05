@@ -17,9 +17,9 @@
  ## Comprobamos ./k0sctl
  ![img](https://github.com/abarcajoel/K0S/blob/main/img/instalacion.png)
 
- ## Como tenemos dos servidores crearemos el archivo .yaml y en el indicaremos las ip's de cada servidor
+ ## Como tenemos dos servidores crearemos el fichero de configuración  .yaml y en el indicaremos las ip's de cada servidor
  ## Creación del archivo yaml con init
- ## ./k0sctl init  Nos devuelve el archivo por defecto.
+ ## ./k0sctl init  Nos devuelve el archivo por defecto (realizar desde exterior).
  ![img]()
  ## ./k0sctl init > k0sctl.yaml crearemos el nuevo archvivo pero con algunas mosdificaciones.
  ![img]()
