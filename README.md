@@ -11,7 +11,7 @@ Proyecto con Kubernetes
 
 4. [Preparación de los servidores](https://github.com/abarcajoel/K0S/blob/main/readme/servidores.md)
 
-5. [Instalación del K0S]() 
+5. [Instalación del K0S](https://github.com/abarcajoel/K0S/blob/main/readme/instalacion_K0s.md) 
 
 6. [Comprobaciones]()
 
