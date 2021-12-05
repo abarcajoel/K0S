@@ -1,6 +1,6 @@
 ![img](https://github.com/abarcajoel/K0S/blob/main/img/k0s.jpg)
 #                       K0S
-Proyecto con Kubernetes
+# Proyecto con Kubernetes
 # Indice
 
 1. [Introducción](https://github.com/abarcajoel/K0S/blob/main/readme/Introduccion.md)
