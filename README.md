@@ -11,7 +11,7 @@ Proyecto con Kubernetes
 
 4. [Preparación de los servidores]()
 
-5. [Instalación del S.O]() 
+5. [Instalación del K0S]() 
 
 6. [Comprobaciones]()
 
