@@ -5,7 +5,8 @@
  ## ssh-copy-ide nombreserver@ipserver
 
  3. Instalación de K0s
- ## wget https://github.com/k0sctl/releases/download/v0.8.4/k0sctl-linux-x64
+ ## wget https://github.com/k0sproject/k0sctl/releases/download/v0.8.4/k0sctl-linux-x64
+
 
    Movemos  a la carpeta correspondiente
  ## mv k0sctl-linux-x64
@@ -15,3 +16,10 @@
 
  ## Comprobamos ./k0sctl
  ![img](https://github.com/abarcajoel/K0S/blob/main/img/instalacion.png)
+
+ ## Como tenemos dos servidores crearemos el archivo .yaml y en el indicaremos las ip's de cada servidor
+ ## Creación del archivo yaml con init
+ ## ./k0sctl init  Nos devuelve el archivo por defecto.
+ ![img]()
+ ## ./k0sctl init > k0sctl.yaml crearemos el nuevo archvivo pero con algunas mosdificaciones.
+ ![img]()
