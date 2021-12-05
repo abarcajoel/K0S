@@ -14,7 +14,7 @@
  # 5. Damos Permisos
  ## chmod 777 k0sctl
 
- ## 6. Comprobamos ./k0sctl
+ # 6. Comprobamos ./k0sctl
  ![img](https://github.com/abarcajoel/K0S/blob/main/img/instalacion.png)
 
  ## Como tenemos dos servidores crearemos el fichero de configuración  .yaml y en el indicaremos las ip's de cada servidor
