@@ -1,6 +1,6 @@
 ![img](https://github.com/abarcajoel/K0S/blob/main/img/k0s.jpg)
 # KUBERNETES                      K0S
-## INSTALACIÓN DE K0S SINGLE NODE
+## INSTALACIÓN DE K0S SINGLE-NODE
 # índice
 ![img](https://github.com/abarcajoel/K0S/blob/main/img/joel.jpg)
 #
