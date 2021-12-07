@@ -2,7 +2,7 @@
 #                       K0S
 # Proyecto con Kubernetes
 # índice
-
+![img]()
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 1. [Introducción](https://github.com/abarcajoel/K0S/blob/main/readme/Introduccion.md)
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 2. [¿Qué es K0s?](https://github.com/abarcajoel/K0S/blob/main/readme/que_es_k0s.md)
