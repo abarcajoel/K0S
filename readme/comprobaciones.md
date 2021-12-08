@@ -13,4 +13,4 @@
 ## 4. Creamos pasarela con k0s kubectl port-forward nombre-pod puertoexterior:puertointerior
 ![img](https://github.com/abarcajoel/K0S/blob/main/img/creamos_pasarela.png)
 ## 5. Comprobamos con el comando curl localhost:puertoexterior
-![img](https://github.com/abarcajoel/K0S/blob/main/img/comprobacion.png)
+![img](https://github.com/abarcajoel/K0S/blob/main/img/vemos_resultado.png)
