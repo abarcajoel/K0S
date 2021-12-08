@@ -9,8 +9,8 @@
 ## k0s kubectl exec pod/replicaset-nginx-84k5d -it -- /bin/bash --> para entrar con la terminal
 ## Modificamos 
 
-![img]()
+![img](https://github.com/abarcajoel/K0S/blob/main/img/modificamos_index.png)
 ## 4. Creamos pasarela con k0s kubectl port-forward nombre-pod puertoexterior:puertointerior
-![img]()
+![img](https://github.com/abarcajoel/K0S/blob/main/img/creamos_pasarela.png)
 ## 5. Comprobamos con el comando curl localhost:puertoexterior
-![img]()
+![img](https://github.com/abarcajoel/K0S/blob/main/img/comprobacion.png)
