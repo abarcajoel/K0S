@@ -22,4 +22,5 @@
  ## ./k0sctl init  Nos devuelve el archivo por defecto (realizar desde exterior).
  ![img](https://github.com/abarcajoel/K0S/blob/main/img/k0sctl_init.png)
  ## ./k0sctl init > k0sctl.yaml crearemos el nuevo archvivo pero con algunas mosdificaciones.
+ ## En este caso con una sola ip( de nuestro servidor remoto).
  ![img](https://github.com/abarcajoel/K0S/blob/main/img/k0sctl_un_servidor.png)
