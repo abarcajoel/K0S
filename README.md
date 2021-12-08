@@ -14,7 +14,7 @@
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 5. [Instalación del K0S](https://github.com/abarcajoel/K0S/blob/main/readme/instalacion_K0s.md) 
 
-![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 6. [Comprobaciones]()
+![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) 6. [Comprobaciones](https://github.com/abarcajoel/K0S/blob/main/readme/comprobaciones.md)
 
 
 
