@@ -1,4 +1,4 @@
-# Proceso para la instalación de K0S en servidor
+# Proceso para la instalación de K0S en servidor remoto
  # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 1.  Generar claves con ssh para tener accesso a los servidores.
  ## ssh-keygen 
  # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 2. Copiar la clave a los dos servidores
