@@ -21,7 +21,7 @@
  # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 7. Creación del archivo yaml con init
  ## ./k0sctl init  Nos devuelve el archivo por defecto (realizar desde exterior).
  ![img](https://github.com/abarcajoel/K0S/blob/main/img/k0sctl_init.png)
- # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Creación de archivo yaml
+ # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 8. Creación de archivo yaml
  ## ./k0sctl init > k0sctl.yaml crearemos el nuevo archvivo pero con algunas mosdificaciones.
  ## En este caso con una sola ip( de nuestro servidor remoto).
  ![img](https://github.com/abarcajoel/K0S/blob/main/img/k0sctl_un_servidor.png)
