@@ -1,11 +1,11 @@
 # Vamos a comprobar el funcionamiento de nuestro servidor 
-## 1. Crearemos un pod 
-![img]()
-## 2. Lo lanzaremos con ./k0sctl kubectl apply -f nombre-archivo.yaml
+## 1. Crearemos un pod en este caso con replicaset
+![img](https://github.com/abarcajoel/K0S/blob/main/img/pod_joel.png)
+## 2. Lo lanzaremos con k0s kubectl apply -f nombre-archivo.yaml en este caso con nginx
 ![img]()
 ## 3. Entramos en nuestro pod y modificamos el html por defecto y añadimos algo nuevo
 ![img]()
-## 4. Creamos pasarela con ./k0sctl kubectl port-forward nombre-pod puertoexterior:puertointerior
+## 4. Creamos pasarela con k0s kubectl port-forward nombre-pod puertoexterior:puertointerior
 ![img]()
 ## 5. Comprobamos con el comando curl localhost:puertoexterior
 ![img]()
