@@ -7,6 +7,9 @@
  # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 3. Instalación de K0s
  ## wget https://github.com/k0sproject/k0sctl/releases/download/v0.8.4/k0sctl-linux-x64
 
+# Vemos la versión que hemos instalado.
+## k0s version
+![img]()
 
 # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 4. Movemos  a la carpeta correspondiente
  ## mv k0sctl-linux-x64
