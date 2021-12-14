@@ -16,7 +16,7 @@
 
  # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 5. Damos Permisos
  ## chmod 777 k0sctl
-
+ 
  # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 6. Comprobamos ./k0sctl
  ![img](https://github.com/abarcajoel/K0S/blob/main/img/instalacion.png)
 
